@@ -2,7 +2,7 @@
 
 ## Premisa:
 
-
+O objetivo de utilizar um projeto da comunidade como o Dataset é de mostrar o leitor como se funciona o treino do YOLOV8
 
 ![RoboflowLogo](https://github.com/Datahuntl/VComputacional/assets/103469153/12810202-022d-4684-b362-615670efa010)
 ![ColabsLogo](https://github.com/Datahuntl/VComputacional/assets/103469153/4d0775da-7d6a-4c09-80ba-c3e63b24555c)
