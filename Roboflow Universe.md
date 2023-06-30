@@ -1,4 +1,4 @@
-# Utilização de um Dataset da Comunidade para treinar um Modelo:
+# Utilização de um Dataset da Comunidade para treinar um Modelo
 
 ## Premisa:
 
