@@ -41,6 +41,7 @@ A utilização do Python é simplesmente para o nosso código no Colabs, porém 
 ### [Utilização de um Dataset da Comunidade para treinar um Modelo:](https://github.com/Datahuntl/VComputacional/edit/main/Roboflow%20Universe.md)
 1. Coleta e Preparação dos Dados do Roboflow
     - Explorando o Universo Roboflow e Projetos
+    - Selecionando um projeto para utilizar
 3. Treinamento do Modelo no Colab
    - Treinamento por dados no API
    - Treinamento por dados locais
