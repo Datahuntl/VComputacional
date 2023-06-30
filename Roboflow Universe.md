@@ -1,4 +1,4 @@
-# Utilização de um Projeto da Comunidade
+# Utilização de um Dataset da Comunidade para treinar um Modelo:
 
 ## Premisa:
 
