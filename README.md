@@ -38,11 +38,6 @@ A utilização do Python é simplesmente para o nosso código no Colabs, porém 
 2. O que é o YOLO?
 3. Aplicações práticas do reconhecimento de imagens
 
-### [Preparação do Ambiente de Desenvolvimento:](https://github.com/Datahuntl/VComputacional/blob/main/Ambiente%20de%20Desenvolvimento.md)
-
-1. Introdução ao Google Colab: Recursos e Benefícios
-2. Configuração do ambiente de desenvolvimento no Colab
-
 ### [Utilização de um Dataset da Comunidade para treinar um Modelo:](https://github.com/Datahuntl/VComputacional/edit/main/Roboflow%20Universe.md)
 1. Coleta e Preparação dos Dados do Roboflow
     - Explorando o Universo Roboflow e Projetos
