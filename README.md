@@ -40,7 +40,7 @@ A utilização do Python é simplesmente para o nosso código no Colabs, porém 
 
 ### [Preparação do Ambiente de Desenvolvimento:](https://github.com/Datahuntl/VComputacional/blob/main/Ambiente%20de%20Desenvolvimento.md)
 
-1. Introdução ao Google Colab: recursos e benefícios
+1. Introdução ao Google Colab: Recursos e Benefícios
 2. Configuração do ambiente de desenvolvimento no Colab
 
 ### [Coleta e Preparação dos Dados do Roboflow:](https://github.com/Datahuntl/VComputacional/blob/main/Coleta%20e%20Prepara%C3%A7%C3%A3o%20dos%20Dados.md)
