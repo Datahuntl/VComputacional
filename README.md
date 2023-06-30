@@ -43,19 +43,22 @@ A utilização do Python é simplesmente para o nosso código no Colabs, porém 
 1. Introdução ao Google Colab: Recursos e Benefícios
 2. Configuração do ambiente de desenvolvimento no Colab
 
-### [Coleta e Preparação dos Dados do Roboflow:](https://github.com/Datahuntl/VComputacional/blob/main/Coleta%20e%20Prepara%C3%A7%C3%A3o%20dos%20Dados.md)
+### [Utilização de um Dataset da Comunidade para treinar um Modelo:](https://github.com/Datahuntl/VComputacional/edit/main/Roboflow%20Universe.md)
+1. Coleta e Preparação dos Dados do Roboflow
+    - Explorando o Universo Roboflow e Projetos
+3. Treinamento do Modelo no Colab
+   - Treinamento por dados no API
+   - Treinamento por dados locais
 
-1. Visão geral do Roboflow: recursos e funcionalidades
-2. Registro e criação de uma conta no Roboflow
-3. Carregamento de conjuntos de dados de imagens no Roboflow
-4. Anotação e rotulagem dos dados usando o Roboflow
-5. Pré-processamento das imagens com o Roboflow
+### [Utilização de um Dataset personalizado para treinar um modelo:](https://github.com/Datahuntl/VComputacional/blob/main/RoboflowCustom.md)
 
-### [Treinamento de Modelos de Visão Computacional no Colab:](https://github.com/Datahuntl/VComputacional/blob/main/Treinamento%20de%20Modelos.md)
-
-1. Seleção e importação do conjunto de dados preparado do Roboflow para o Colab
-2. Escolha do algoritmo/modelo de visão computacional adequado
-3. Treinamento do modelo utilizando o Colab e o conjunto de dados
+1. Carregamento de conjuntos de dados de imagens no Roboflow
+2. Anotação e rotulagem dos dados usando o Roboflow
+3. Pré-processamento das imagens com o Roboflow
+4. Pós-processamento das imagens com o Roboflow
+3. Treinamento do Modelo no Colab
+   - Treinamento por dados no API
+   - Treinamento por dados locais
 
 ### [Avaliação e Ajuste do Modelo:](https://github.com/Datahuntl/VComputacional/blob/main/Avalia%C3%A7%C3%A3o%20e%20Ajuste.md)
 
