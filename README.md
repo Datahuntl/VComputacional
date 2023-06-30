@@ -1,4 +1,4 @@
-# Visão Computacional no reconhecimento de Imagens
+# Visão Computacional com o YOLOV8
 
 ### Premisa:
 
