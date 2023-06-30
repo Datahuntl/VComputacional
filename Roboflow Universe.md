@@ -29,22 +29,6 @@ Vale a pena notar que os projetos do universo Roboflow ja estão treinados, e po
 
 ### 2. Treinamento do Modelo no Colab
 
-   #### Treinamento por dados no API
-
-Para fazer o treinamento do nosso modelo por meio da API devemos selecionar a opção **Try Pre-Trained Model**
-
-![image](https://github.com/Datahuntl/VComputacional/assets/103469153/3ddae39f-b29e-4dbf-84ba-cbaa0b7e7835)
-
-Logo após vamos descer um pouco a tela até aparecer a opção de "Deploy this Model" ou Implemente esse Modelo, e copie apenas o que esta dentro do retangulo vermelho.
-
-![image](https://github.com/Datahuntl/VComputacional/assets/103469153/ec00c018-2a38-487c-b70e-ce80b57861be)
-
-Com isso feito podemos ir para o Google Colab para treinar o modelo.
-
-(Com esse notebook do Colab](https://colab.research.google.com/drive/10n7kMuX8Ik0Ttx7XkULgRWHqY9MjYviP?usp=sharing) você podera ver como ficara o nosso treinamento por meio do API e por meio de dados locais.
-
-No Tópico de "Treinamento por API" faça as alterações necessárias para o seu dataset e rode os blocos de código e você tera um modelo treinado.
-
    #### Treinamento por dados locais
 
 No treinamento de dados locais você vai precisar fazer o download do dataset, clicando na opção "Download this Dataset".
@@ -71,6 +55,6 @@ No arquivo do data.yaml você vai precisar alterar os locais de origem do "train
 
 Com o dataset instalado no seu drive e o data.yaml corrigido podemos começar a treinar o nosso modelo.
 
-(Com esse notebook do Colab](https://colab.research.google.com/drive/10n7kMuX8Ik0Ttx7XkULgRWHqY9MjYviP?usp=sharing) você podera ver como ficara o nosso treinamento por meio do API e por meio de dados locais.
+(Com esse notebook do Colab](https://colab.research.google.com/drive/10n7kMuX8Ik0Ttx7XkULgRWHqY9MjYviP?usp=sharing) você podera ver como ficara o nosso treinamento por meio de dados locais.
 
 No Tópico de "Treinamento por Dados Locais" simplesmente rode os blocos de código e faça alterações nas epócas ou tamanho da imagem caso necessário e você terá um modelo treinado.
