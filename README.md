@@ -35,7 +35,8 @@ A utilização do Python é simplesmente para o nosso código no Colabs, porém 
 ### [Introdução:](https://github.com/Datahuntl/VComputacional/blob/main/Introdu%C3%A7%C3%A3o.md)
 
 1. Visão Computacional e Reconhecimento de Imagens: uma visão geral
-2. Aplicações práticas do reconhecimento de imagens
+2. O que é o YOLO?
+3. Aplicações práticas do reconhecimento de imagens
 
 ### [Preparação do Ambiente de Desenvolvimento:](https://github.com/Datahuntl/VComputacional/blob/main/Ambiente%20de%20Desenvolvimento.md)
 
