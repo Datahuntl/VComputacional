@@ -1,8 +1,10 @@
-# VComputacional
+# Visão Computacional no reconhecimento de Imagens
 
 ### Premisa:
 
-Como utilizar Visão Computacional para fazer reconhecimento de imagens.
+O tutorial visa capacitar os leitores a entenderem os conceitos fundamentais da visão computacional, aprenderem a preparar conjuntos de dados de imagens, treinar modelos de reconhecimento de imagens e implantar esses modelos em aplicações reais.
+
+A premissa do tutorial é fornecer um recurso abrangente e prático para ajudar os leitores a utilizar efetivamente a visão computacional no reconhecimento de imagens, utilizando o Google Colab e o Roboflow como ferramentas principais para o desenvolvimento e implementação dos modelos.
 
 ### O que está sendo utilizado:
 
@@ -27,3 +29,34 @@ Roboflow é uma plataforma de visão computacional que fornece ferramentas e ser
 A utilização do Python é simplesmente para o nosso código no Colabs, porém não se preocupe, pois estará tudo no nosso passo a passo.
 
 ![PythonLogo](https://github.com/Datahuntl/VComputacional/assets/103469153/91e57b34-2662-4bee-ac61-533a72f3f9ae)
+
+## Topicos a serem abordados
+
+### Introdução:
+
+1. Visão Computacional e Reconhecimento de Imagens: uma visão geral
+2. Aplicações práticas do reconhecimento de imagens
+
+### Preparação do Ambiente de Desenvolvimento:
+
+1. Introdução ao Google Colab: recursos e benefícios
+2. Configuração do ambiente de desenvolvimento no Colab
+
+### Coleta e Preparação dos Dados do Roboflow:
+
+1. Visão geral do Roboflow: recursos e funcionalidades
+2. Registro e criação de uma conta no Roboflow
+3. Carregamento de conjuntos de dados de imagens no Roboflow
+4. Anotação e rotulagem dos dados usando o Roboflow
+5. Pré-processamento das imagens com o Roboflow
+
+### Treinamento de Modelos de Visão Computacional no Colab:
+
+1. Seleção e importação do conjunto de dados preparado do Roboflow para o Colab
+2. Escolha do algoritmo/modelo de visão computacional adequado
+3. Treinamento do modelo utilizando o Colab e o conjunto de dados
+
+### Avaliação e Ajuste do Modelo:
+
+1. Métricas de avaliação de desempenho do modelo (precisão, recall, F1-score, etc.)
+2. Ajuste de hiperparâmetros do modelo no Cola
