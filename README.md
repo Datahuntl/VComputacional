@@ -54,8 +54,3 @@ A utilização do Python é simplesmente para o nosso código no Colabs, porém 
    - Pós-processamento das imagens com o Roboflow
 3. Treinamento do Modelo no Colab
    - Treinamento por dados locais
-
-### [Avaliação e Ajuste do Modelo:](https://github.com/Datahuntl/VComputacional/blob/main/Avalia%C3%A7%C3%A3o%20e%20Ajuste.md)
-
-1. Métricas de avaliação de desempenho do modelo (precisão, recall, F1-score, etc.)
-2. Ajuste de hiperparâmetros do modelo no Colab
