@@ -37,12 +37,12 @@ A utilização do Python é simplesmente para o nosso código no Colabs, porém 
 1. Visão Computacional e Reconhecimento de Imagens: uma visão geral
 2. Aplicações práticas do reconhecimento de imagens
 
-### [Preparação do Ambiente de Desenvolvimento:](https://github.com/Datahuntl/VComputacional/blob/main/Ambiente%20de%20Desenvolvimento)
+### [Preparação do Ambiente de Desenvolvimento:](https://github.com/Datahuntl/VComputacional/blob/main/Ambiente%20de%20Desenvolvimento.md)
 
 1. Introdução ao Google Colab: recursos e benefícios
 2. Configuração do ambiente de desenvolvimento no Colab
 
-### [Coleta e Preparação dos Dados do Roboflow:](https://github.com/Datahuntl/VComputacional/blob/main/Coleta%20e%20Prepara%C3%A7%C3%A3o%20dos%20Dados)
+### [Coleta e Preparação dos Dados do Roboflow:](https://github.com/Datahuntl/VComputacional/blob/main/Coleta%20e%20Prepara%C3%A7%C3%A3o%20dos%20Dados.md)
 
 1. Visão geral do Roboflow: recursos e funcionalidades
 2. Registro e criação de uma conta no Roboflow
@@ -50,13 +50,13 @@ A utilização do Python é simplesmente para o nosso código no Colabs, porém 
 4. Anotação e rotulagem dos dados usando o Roboflow
 5. Pré-processamento das imagens com o Roboflow
 
-### [Treinamento de Modelos de Visão Computacional no Colab:](https://github.com/Datahuntl/VComputacional/blob/main/Treinamento%20de%20Modelos)
+### [Treinamento de Modelos de Visão Computacional no Colab:](https://github.com/Datahuntl/VComputacional/blob/main/Treinamento%20de%20Modelos.md)
 
 1. Seleção e importação do conjunto de dados preparado do Roboflow para o Colab
 2. Escolha do algoritmo/modelo de visão computacional adequado
 3. Treinamento do modelo utilizando o Colab e o conjunto de dados
 
-### [Avaliação e Ajuste do Modelo:](https://github.com/Datahuntl/VComputacional/blob/main/Avalia%C3%A7%C3%A3o%20e%20Ajuste)
+### [Avaliação e Ajuste do Modelo:](https://github.com/Datahuntl/VComputacional/blob/main/Avalia%C3%A7%C3%A3o%20e%20Ajuste.md)
 
 1. Métricas de avaliação de desempenho do modelo (precisão, recall, F1-score, etc.)
 2. Ajuste de hiperparâmetros do modelo no Colab
