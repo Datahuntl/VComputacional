@@ -32,7 +32,7 @@ A utilização do Python é simplesmente para o nosso código no Colabs, porém 
 
 ## Topicos a serem abordados
 
-### [Introdução:](https://github.com/Datahuntl/VComputacional/blob/main/Introdu%C3%A7%C3%A3o)
+### [Introdução:](https://github.com/Datahuntl/VComputacional/blob/main/Introdu%C3%A7%C3%A3o.md)
 
 1. Visão Computacional e Reconhecimento de Imagens: uma visão geral
 2. Aplicações práticas do reconhecimento de imagens
