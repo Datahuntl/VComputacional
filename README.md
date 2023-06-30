@@ -59,4 +59,4 @@ A utilização do Python é simplesmente para o nosso código no Colabs, porém 
 ### [Avaliação e Ajuste do Modelo:](https://github.com/Datahuntl/VComputacional/blob/main/Avalia%C3%A7%C3%A3o%20e%20Ajuste)
 
 1. Métricas de avaliação de desempenho do modelo (precisão, recall, F1-score, etc.)
-2. Ajuste de hiperparâmetros do modelo no Cola
+2. Ajuste de hiperparâmetros do modelo no Colab
