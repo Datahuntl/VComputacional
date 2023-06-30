@@ -14,7 +14,15 @@ A visão computacional tem aplicações em diversas áreas, incluindo medicina, 
 
 A visão computacional desempenha um papel crucial no mundo atual, onde estamos cercados por uma imensa quantidade de dados visuais. Com o avanço da tecnologia, a captura de imagens e vídeos se tornou mais acessível e onipresente, resultando em um enorme volume de dados visuais gerados diariamente. Esses dados visuais vêm de diversas fontes, como câmeras de vigilância, smartphones, drones, câmeras de veículos, imagens médicas e até mesmo redes sociais, onde compartilhamos fotos e vídeos regularmente.
 
-### 2. Aplicações práticas do reconhecimento de imagens
+### 2. O que é o YOLO?
+
+O YOLO é um modelo de rede neural convolucional (CNN) desenvolvido para realizar detecção de objetos em imagens em tempo real. A sigla "YOLO" significa "You Only Look Once", indicando que o modelo realiza a detecção de objetos em uma única passagem pela imagem, ao contrário de abordagens tradicionais que envolvem a geração de regiões de interesse e várias etapas de processamento.
+
+A premisa do YOLO é realizar detecção de objetos com alta precisão e eficiência computacional. O modelo divide a imagem de entrada em uma grade de células e, para cada célula, prevê caixas delimitadoras (bounding boxes) que contêm objetos, bem como as classes dos objetos contidos nessas caixas. O YOLO também utiliza uma técnica chamada "anchor boxes" para lidar com objetos de diferentes tamanhos e aspectos.
+
+A principal vantagem do YOLO é a sua velocidade. Como ele realiza a detecção em uma única passagem pela imagem, é capaz de processar as imagens em tempo real, tornando-o adequado para aplicações de visão computacional em tempo real, como sistemas de segurança, veículos autônomos, monitoramento de tráfego e muito mais.
+
+### 3. Aplicações práticas do reconhecimento de imagens
 
 1. Medicina:
 
