@@ -1,6 +1,6 @@
 # Visão Computacional com o YOLOV8
 
-### Premisa:
+## Premisa:
 
 O tutorial visa capacitar os leitores a entenderem os conceitos fundamentais da visão computacional, aprenderem a preparar conjuntos de dados de imagens, treinar modelos de reconhecimento de imagens e implantar esses modelos em aplicações reais.
 
