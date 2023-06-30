@@ -44,7 +44,6 @@ A utilização do Python é simplesmente para o nosso código no Colabs, porém 
     - Selecionando um projeto para utilizar
 3. Treinamento do Modelo no Colab
    - Treinamento por dados no API
-   - Treinamento por dados locais
 
 ### [Utilização de um Dataset personalizado para treinar um modelo:](https://github.com/Datahuntl/VComputacional/blob/main/RoboflowCustom.md)
 
@@ -54,7 +53,6 @@ A utilização do Python é simplesmente para o nosso código no Colabs, porém 
    - Pré-processamento das imagens com o Roboflow
    - Pós-processamento das imagens com o Roboflow
 3. Treinamento do Modelo no Colab
-   - Treinamento por dados no API
    - Treinamento por dados locais
 
 ### [Avaliação e Ajuste do Modelo:](https://github.com/Datahuntl/VComputacional/blob/main/Avalia%C3%A7%C3%A3o%20e%20Ajuste.md)
