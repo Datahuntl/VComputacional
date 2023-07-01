@@ -25,12 +25,33 @@ Ao criar o nosso projeto vamos para a parte de "Upload" ou Descarregar arquivos 
 
 ### Anotação e rotulagem dos dados usando o Roboflow
 
-Após fazermos o upload de todas as imagens que queremos anotar vamos começar a anota-las, que fica 
+Após fazermos o upload de todas as imagens que queremos anotar vamos começar a anota-las, que fica na parte de "Annotate".
 
-### Pré-processamento das imagens com o Roboflow
+![image](https://github.com/Datahuntl/VComputacional/assets/103469153/0b33280a-aeb1-4749-98a3-efabc6af28ed)
 
+A parte "Unassigned" são imagens que foram descarregadas no seu projeto porem não tem alguem como o Anotador da "task". A parte Annotating são tasks que estão sendo anotadas e a parte Dataset é o conglomerado seu de todas as imagens rotuladas.
 
+Para você atribuir alguem a fazer uma task é o seguinte, primeiro selecione qual task você quer atribuir:
 
-### Pós-processamento das imagens com o Roboflow
+![image](https://github.com/Datahuntl/VComputacional/assets/103469153/485c5531-7df7-4538-9ff6-19cdb30797e5)
 
+Após, selecione qual das pessoas dentro do seu projeto vão anotar a task, o roboflow divide a task igualmente caso várias pessoas façam a anotação de uma task.
+
+![image](https://github.com/Datahuntl/VComputacional/assets/103469153/d1b38df9-1b1d-45a7-bb65-9c16aa833ddc)
+
+E agora você tem uma task atribuida pronta para ser anotada.
+
+Durante a anotação de imagens é de suma importancia que você utilize apenas Bounding Boxes ou Poligonos de segmentação, pois o YOLOV8 não consegue treinar um dataset mixado.
+
+![image](https://github.com/Datahuntl/VComputacional/assets/103469153/f5f2a888-2eb2-41bc-8d66-42ccdd31d3b8)
+
+### Criando uma Versão do Dataset
+
+Agora que temos o nosso dataset anotado vamos criar uma versão dele no Roboflow para que ele seje treinado no YOLO. Para criar uma versão do seu Dataset será necessário ir na aba de "Generate" como na imagem a seguir:
+
+![image](https://github.com/Datahuntl/VComputacional/assets/103469153/8e96da00-c2c8-43ea-a7cb-5960152c0e30)
+
+Ao selecionar a opção "Generate New Version" você ira ver quantas imagens você tem no total e opções de Pre-Processamento ou Augmentação que você pode colocar no seu dataset, e no final você vai gerar a primeira versão do seu Dataset!
+
+![image](https://github.com/Datahuntl/VComputacional/assets/103469153/c7e98845-6089-4f42-b367-2f84bd72265a)
 
