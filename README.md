@@ -42,13 +42,13 @@ A utilização do Python é simplesmente para o nosso código no Colabs, porém 
 1. Coleta e Preparação dos Dados do Roboflow
     - Explorando o Universo Roboflow e Projetos
     - Selecionando um projeto para utilizar
-3. Treinamento do Modelo no Colab
-   - Treinamento por dados no API
+2. Treinamento do Modelo no Colab
+   - Treinamento por dados locais
 
 ### [Utilização de um Dataset personalizado para treinar um modelo:](https://github.com/Datahuntl/VComputacional/blob/main/RoboflowCustom.md)
 
 1. Coleta e Preparação dos Dados do Roboflow
    - Carregamento de conjuntos de dados de imagens no Roboflow
    - Anotação e rotulagem dos dados usando o Roboflow
-3. Treinamento do Modelo no Colab
+2. Treinamento do Modelo no Colab
    - Treinamento por dados locais
