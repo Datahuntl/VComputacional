@@ -50,7 +50,5 @@ A utilização do Python é simplesmente para o nosso código no Colabs, porém 
 1. Coleta e Preparação dos Dados do Roboflow
    - Carregamento de conjuntos de dados de imagens no Roboflow
    - Anotação e rotulagem dos dados usando o Roboflow
-   - Pré-processamento das imagens com o Roboflow
-   - Pós-processamento das imagens com o Roboflow
 3. Treinamento do Modelo no Colab
    - Treinamento por dados locais
