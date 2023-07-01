@@ -1,1 +1,36 @@
+# Utilização de um Dataset personalizado para treinar um modelo
+
+## Premisa:
+
+O objetivo de utilizar um projeto da comunidade como o Dataset é de mostrar o leitor como se funciona o treino do YOLOV8
+
+![RoboflowLogo](https://github.com/Datahuntl/VComputacional/assets/103469153/12810202-022d-4684-b362-615670efa010)
+![ColabsLogo](https://github.com/Datahuntl/VComputacional/assets/103469153/4d0775da-7d6a-4c09-80ba-c3e63b24555c)
+
+## Coleta e Preparação dos Dados do Roboflow
+
+### Carregamento de conjuntos de dados de imagens no Roboflow
+
+Na sua área de trabalho no Roboflow vamos criar um projeto novo selecionando a opção "Create new Project".
+
+![image](https://github.com/Datahuntl/VComputacional/assets/103469153/3f0f6f0d-41d9-42ef-8713-65808e6bc5dd)
+
+Selecione o tipo do projeto, o que você está detectando e o nome do projeto, mantendo a lincesa a mesma.
+
+![image](https://github.com/Datahuntl/VComputacional/assets/103469153/928156da-39ec-41eb-9d03-3ea71ad9b366)
+
+Ao criar o nosso projeto vamos para a parte de "Upload" ou Descarregar arquivos ou pasta no seu projeto.
+
+![image](https://github.com/Datahuntl/VComputacional/assets/103469153/032d31d1-ceaa-46b5-9862-530bbe531710)
+
+### Anotação e rotulagem dos dados usando o Roboflow
+
+Após fazermos o upload de todas as imagens que queremos anotar vamos começar a anota-las, que fica 
+
+### Pré-processamento das imagens com o Roboflow
+
+
+
+### Pós-processamento das imagens com o Roboflow
+
 
